@@ -21,7 +21,7 @@ This files should be palced in `./data` folder.
 
 Dolowd `ProtT5-XL-UniRef50` from [ProtTrans](https://github.com/agemagician/ProtTrans)
 
-##Usage 
+## Usage 
 
 1. Run `Step0_DataGenerate.py` to generate data.
 2. Run `Step1_LMdatagenerate.py` to generate ProteinT5 data.
